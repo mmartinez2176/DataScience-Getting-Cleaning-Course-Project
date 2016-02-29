@@ -9,11 +9,14 @@ subject - Subject Identifier
 activity - Activity performed when the corresponding measurements were taken
 Measurements
 
-TimeBodyAccelerometer-Mean-X"                             
-TimeBodyAccelerometer-Mean-Y"                             "TimeBodyAccelerometer-Mean-Z"                             
-TimeBodyAccelerometer-StandardDeviation-X"                 "TimeBodyAccelerometer-StandardDeviation-Y"                
-TimeBodyAccelerometer-StandardDeviation-Z"                 "TimeGravityAccelerometer-Mean-X"                          
-TimeGravityAccelerometer-Mean-Y"                           "TimeGravityAccelerometer-Mean-Z"                          
+TimeBodyAccelerometer-Mean-X                             
+TimeBodyAccelerometer-Mean-Y
+TimeBodyAccelerometer-Mean-Z                             
+TimeBodyAccelerometer-StandardDeviation-X
+TimeBodyAccelerometer-StandardDeviation-Y                
+TimeBodyAccelerometer-StandardDeviation-Z
+TimeGravityAccelerometer-Mean-X                          
+TimeGravityAccelerometer-Mean-YTimeGravityAccelerometer-Mean-Z"                          
 TimeGravityAccelerometer-StandardDeviation-X"              "TimeGravityAccelerometer-StandardDeviation-Y"             
 TimeGravityAccelerometer-StandardDeviation-Z"              "TimeBodyAccelerometerJerk-Mean-X"                         
 TimeBodyAccelerometerJerk-Mean-Y"                          "TimeBodyAccelerometerJerk-Mean-Z"                         
@@ -32,14 +35,22 @@ TimeBodyGyroscopeMagnitude-StandardDeviation"              "TimeBodyGyroscopeJer
 TimeBodyGyroscopeJerkMagnitude-StandardDeviation"          "FrequencyBodyAccelerometer-Mean-X"                        
 FrequencyBodyAccelerometer-Mean-Y"                         "FrequencyBodyAccelerometer-Mean-Z"                        
 FrequencyBodyAccelerometer-StandardDeviation-X"            "FrequencyBodyAccelerometer-StandardDeviation-Y"           
-FrequencyBodyAccelerometer-StandardDeviation-Z"            "FrequencyBodyAccelerometerJerk-Mean-X"                    
-FrequencyBodyAccelerometerJerk-Mean-Y"                     "FrequencyBodyAccelerometerJerk-Mean-Z"                    
-FrequencyBodyAccelerometerJerk-StandardDeviation-X"        "FrequencyBodyAccelerometerJerk-StandardDeviation-Y"       
-FrequencyBodyAccelerometerJerk-StandardDeviation-Z"        "FrequencyBodyGyroscope-Mean-X"                            
-FrequencyBodyGyroscope-Mean-Y"                             "FrequencyBodyGyroscope-Mean-Z"                            
-FrequencyBodyGyroscope-StandardDeviation-X"                "FrequencyBodyGyroscope-StandardDeviation-Y"               
-FrequencyBodyGyroscope-StandardDeviation-Z"                "FrequencyBodyAccelerometerMagnitude-Mean"                 
-FrequencyBodyAccelerometerMagnitude-StandardDeviation"     "FrequencyBodyAccelerometerJerkMagnitude-Mean"             
+FrequencyBodyAccelerometer-StandardDeviation-Z
+FrequencyBodyAccelerometerJerk-Mean-X                    
+FrequencyBodyAccelerometerJerk-Mean-Y
+FrequencyBodyAccelerometerJerk-Mean-Z                    
+FrequencyBodyAccelerometerJerk-StandardDeviation-X
+FrequencyBodyAccelerometerJerk-StandardDeviation-Y       
+FrequencyBodyAccelerometerJerk-StandardDeviation-Z
+FrequencyBodyGyroscope-Mean-X"                            
+FrequencyBodyGyroscope-Mean-Y
+FrequencyBodyGyroscope-Mean-Z                            
+FrequencyBodyGyroscope-StandardDeviation-X
+FrequencyBodyGyroscope-StandardDeviation-Y
+FrequencyBodyGyroscope-StandardDeviation-Z
+FrequencyBodyAccelerometerMagnitude-Mean                 
+FrequencyBodyAccelerometerMagnitude-StandardDeviation
+FrequencyBodyAccelerometerJerkMagnitude-Mean             
 FrequencyBodyAccelerometerJerkMagnitude-StandardDeviation
 FrequencyGyroscopeMagnitude-Mean
 FrequencyBodyGyroscopeMagnitude-StandardDeviation
